@@ -1,1 +1,1 @@
-# laundary_management
+# laundry_management
